@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 设置钱包地址变量
-WORKER_WALLET_ADDRESS="Yg35XuZENFxEy3JcFa8rFhj2YfuyYK5fxbFeFSeWoRK"
+WORKER_WALLET_ADDRESS="EPTd8Bi1k13KnqWA91MkxymX1F6HHeYkyqCeXCfC6n9R"
 
 
 if ! type numactl >/dev/null 2>&1; then
